@@ -1,0 +1,20 @@
+.odd{
+    background-color:#ffe4e1;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+.odd-cooler{
+    font-size: 24px;
+}
+
+#dos-element{
+    color:#0000ff;
+    font-size: 36px;
+}
+
+#ocho-element{
+    background-color:#90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
